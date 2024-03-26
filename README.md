@@ -19,3 +19,7 @@ This project implements an advanced suite of image processing capabilities along
 ### Installation
 Clone the project repository:
 git clone https://github.com/yourusername/image-processing-knn-classification.git
+download the required packages:
+pip install numpy pillow
+run the program:
+python image_processor.py
